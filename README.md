@@ -7,6 +7,7 @@ Solved and leetcode accepted dsa questions
 | ------- |
 | [0217-contains-duplicate](https://github.com/kumar1134/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kumar1134/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
+| [0704-binary-search](https://github.com/kumar1134/leetcode_problems/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,8 @@ Solved and leetcode accepted dsa questions
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kumar1134/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/kumar1134/leetcode_problems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
