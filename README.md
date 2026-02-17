@@ -7,6 +7,7 @@ Solved and leetcode accepted dsa questions
 | ------- |
 | [0217-contains-duplicate](https://github.com/kumar1134/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kumar1134/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/kumar1134/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/kumar1134/leetcode_problems/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -25,4 +26,8 @@ Solved and leetcode accepted dsa questions
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/kumar1134/leetcode_problems/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/kumar1134/leetcode_problems/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
