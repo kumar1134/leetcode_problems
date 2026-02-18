@@ -30,4 +30,20 @@ Solved and leetcode accepted dsa questions
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/kumar1134/leetcode_problems/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kumar1134/leetcode_problems/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kumar1134/leetcode_problems/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kumar1134/leetcode_problems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kumar1134/leetcode_problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
