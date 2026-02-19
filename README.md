@@ -5,6 +5,7 @@ Solved and leetcode accepted dsa questions
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kumar1134/leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kumar1134/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kumar1134/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/kumar1134/leetcode_problems/tree/master/0283-move-zeroes) |
@@ -12,11 +13,13 @@ Solved and leetcode accepted dsa questions
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kumar1134/leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kumar1134/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kumar1134/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kumar1134/leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kumar1134/leetcode_problems/tree/master/0217-contains-duplicate) |
 ## Sliding Window
 |  |
@@ -46,4 +49,12 @@ Solved and leetcode accepted dsa questions
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kumar1134/leetcode_problems/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kumar1134/leetcode_problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kumar1134/leetcode_problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
