@@ -33,6 +33,7 @@ Solved and leetcode accepted dsa questions
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/kumar1134/leetcode_problems/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/kumar1134/leetcode_problems/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
@@ -57,4 +58,8 @@ Solved and leetcode accepted dsa questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kumar1134/leetcode_problems/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/kumar1134/leetcode_problems/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
