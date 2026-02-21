@@ -10,6 +10,7 @@ Solved and leetcode accepted dsa questions
 | [0219-contains-duplicate-ii](https://github.com/kumar1134/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/kumar1134/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/kumar1134/leetcode_problems/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/kumar1134/leetcode_problems/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +63,8 @@ Solved and leetcode accepted dsa questions
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/kumar1134/leetcode_problems/tree/master/0344-reverse-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/kumar1134/leetcode_problems/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
