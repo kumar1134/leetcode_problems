@@ -62,9 +62,14 @@ Solved and leetcode accepted dsa questions
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kumar1134/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/kumar1134/leetcode_problems/tree/master/0344-reverse-string) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/kumar1134/leetcode_problems/tree/master/0724-find-pivot-index) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kumar1134/leetcode_problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
