@@ -11,6 +11,7 @@ Solved and leetcode accepted dsa questions
 | [0283-move-zeroes](https://github.com/kumar1134/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/kumar1134/leetcode_problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/kumar1134/leetcode_problems/tree/master/0724-find-pivot-index) |
+| [1095-find-in-mountain-array](https://github.com/kumar1134/leetcode_problems/tree/master/1095-find-in-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Solved and leetcode accepted dsa questions
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/kumar1134/leetcode_problems/tree/master/0704-binary-search) |
+| [1095-find-in-mountain-array](https://github.com/kumar1134/leetcode_problems/tree/master/1095-find-in-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,4 +74,12 @@ Solved and leetcode accepted dsa questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kumar1134/leetcode_problems/tree/master/0020-valid-parentheses) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/kumar1134/leetcode_problems/tree/master/1095-find-in-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/kumar1134/leetcode_problems/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
