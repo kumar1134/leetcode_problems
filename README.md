@@ -5,6 +5,7 @@ Solved and leetcode accepted dsa questions
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kumar1134/leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/kumar1134/leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kumar1134/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kumar1134/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
@@ -30,6 +31,7 @@ Solved and leetcode accepted dsa questions
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kumar1134/leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/kumar1134/leetcode_problems/tree/master/0704-binary-search) |
 | [1095-find-in-mountain-array](https://github.com/kumar1134/leetcode_problems/tree/master/1095-find-in-mountain-array) |
 ## Two Pointers
