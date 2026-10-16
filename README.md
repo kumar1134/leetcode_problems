@@ -13,6 +13,7 @@ Solved and leetcode accepted dsa questions
 | [0283-move-zeroes](https://github.com/kumar1134/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/kumar1134/leetcode_problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/kumar1134/leetcode_problems/tree/master/0724-find-pivot-index) |
+| [0832-flipping-an-image](https://github.com/kumar1134/leetcode_problems/tree/master/0832-flipping-an-image) |
 | [1095-find-in-mountain-array](https://github.com/kumar1134/leetcode_problems/tree/master/1095-find-in-mountain-array) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ Solved and leetcode accepted dsa questions
 | ------- |
 | [0283-move-zeroes](https://github.com/kumar1134/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kumar1134/leetcode_problems/tree/master/0344-reverse-string) |
+| [0832-flipping-an-image](https://github.com/kumar1134/leetcode_problems/tree/master/0832-flipping-an-image) |
 ## Math
 |  |
 | ------- |
@@ -94,4 +96,13 @@ Solved and leetcode accepted dsa questions
 | [0136-single-number](https://github.com/kumar1134/leetcode_problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/kumar1134/leetcode_problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kumar1134/leetcode_problems/tree/master/0231-power-of-two) |
+| [0832-flipping-an-image](https://github.com/kumar1134/leetcode_problems/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/kumar1134/leetcode_problems/tree/master/0832-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/kumar1134/leetcode_problems/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
