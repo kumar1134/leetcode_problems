@@ -43,6 +43,7 @@ Solved and leetcode accepted dsa questions
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/kumar1134/leetcode_problems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/kumar1134/leetcode_problems/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -51,6 +52,7 @@ Solved and leetcode accepted dsa questions
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/kumar1134/leetcode_problems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/kumar1134/leetcode_problems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -89,4 +91,5 @@ Solved and leetcode accepted dsa questions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kumar1134/leetcode_problems/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/kumar1134/leetcode_problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
