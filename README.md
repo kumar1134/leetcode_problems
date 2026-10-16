@@ -62,6 +62,7 @@ Solved and leetcode accepted dsa questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kumar1134/leetcode_problems/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/kumar1134/leetcode_problems/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
@@ -91,5 +92,6 @@ Solved and leetcode accepted dsa questions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kumar1134/leetcode_problems/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/kumar1134/leetcode_problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kumar1134/leetcode_problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
