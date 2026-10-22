@@ -49,6 +49,7 @@ Solved and leetcode accepted dsa questions
 | [0204-count-primes](https://github.com/kumar1134/leetcode_problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kumar1134/leetcode_problems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/kumar1134/leetcode_problems/tree/master/0509-fibonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumar1134/leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Solved and leetcode accepted dsa questions
 | [0191-number-of-1-bits](https://github.com/kumar1134/leetcode_problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kumar1134/leetcode_problems/tree/master/0231-power-of-two) |
 | [0832-flipping-an-image](https://github.com/kumar1134/leetcode_problems/tree/master/0832-flipping-an-image) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumar1134/leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
 |  |
 | ------- |
